@@ -47,6 +47,7 @@ Adminer
 AdministrationNewField
 AdministrationNewModule
 Afile
+Agentic
 AfterLineItemAddedEvent
 AfterLineItemQuantityChangedEvent
 AfterLineItemRemovedEvent
@@ -1046,6 +1047,7 @@ TypeError
 TypeError's
 TypeScript
 TypeScript's
+UCP
 UDP
 UI
 UID
@@ -1161,6 +1163,7 @@ activateShopwareTheme
 adr
 afterSort
 ag
+agentic
 ai
 ajax
 allowlist
@@ -1441,6 +1444,7 @@ extendability
 extensibility
 externalReference
 failover
+fallback
 fallbacks
 fastly
 favicon
@@ -1631,6 +1635,7 @@ logfiles
 logics
 loginRequired
 loginViaApi
+llms
 longtext
 lookups
 lowerCamelCase
@@ -1902,6 +1907,7 @@ selectbox
 sellable
 sendmail
 seo
+seoUrl
 seperate
 seperated
 serializable
@@ -1982,6 +1988,7 @@ substring
 supervisord
 svg
 sw
+sw_extends
 swSelect
 swoole
 symfony
