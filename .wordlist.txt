@@ -47,10 +47,10 @@ Adminer
 AdministrationNewField
 AdministrationNewModule
 Afile
-Agentic
 AfterLineItemAddedEvent
 AfterLineItemQuantityChangedEvent
 AfterLineItemRemovedEvent
+Agentic
 AggregationResultCollection
 AjaxModalPlugin
 Aktions
@@ -1626,6 +1626,7 @@ lineItemId
 linter
 linters
 linux
+llms
 localVue
 localhost
 localhost's
@@ -1635,7 +1636,6 @@ logfiles
 logics
 loginRequired
 loginViaApi
-llms
 longtext
 lookups
 lowerCamelCase
@@ -1988,8 +1988,8 @@ substring
 supervisord
 svg
 sw
-sw_extends
 swSelect
+sw_extends
 swoole
 symfony
 symfony's
